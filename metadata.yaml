@@ -1,0 +1,30 @@
+_repo: Die-Kernpunkte-der-sozialen-Frage-in-den-Lebensnotwendigkeiten-der-Gegenwart-und-Zukunft_28494
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Steiner, Rudolf
+    alias: Steiner, Rudolph
+    birthdate: 1861
+    deathdate: 1925
+    gutenberg_agent_id: '26537'
+    url: http://www.gutenberg.org/2009/agents/26537
+    wikipedia: http://en.wikipedia.org/wiki/Rudolf_Steiner
+description: ''
+gutenberg_issued: '2009-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28494'
+  lccn: '23004882'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HN'
+- !lcsh 'Social sciences'
+title: Die Kernpunkte der sozialen Frage in den Lebensnotwendigkeiten der Gegenwart
+  und Zukunft
+url: http://www.gutenberg.org/ebooks/28494
